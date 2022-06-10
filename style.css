@@ -1,0 +1,21 @@
+body{
+    background-color: #4C3575;
+    color: whitesmoke;
+}
+.content{
+    padding: 0.5%;
+}
+
+.red{
+    background-color: #5B4B8A;
+    padding: 5%;
+}
+.blue{
+    background-color:#371B58;
+    padding: 4%;
+}
+.whit{ 
+    background-color: whitesmoke;
+    color: black;
+
+}

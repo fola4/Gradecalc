@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 body{
     background-color: #4C3575;
     color: whitesmoke;
 }
 .content{
     padding: 0.5%;
+    margin-top: 2em;
 }
-
+.content, h1 {
+    text-align: center;
+    font-weight: 400;
+}
 .red{
     background-color: #5B4B8A;
     padding: 5%;
@@ -18,4 +23,7 @@ body{
     background-color: whitesmoke;
     color: black;
 
+}
+.container {
+    margin-top: 5em;
 }
